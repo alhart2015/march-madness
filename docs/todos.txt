@@ -11,3 +11,4 @@ Pull input from the web instead of having to copy/paste
 Other models
     Machine learning
     Massey weighting tuned by historical results
+Packaging a python project?
