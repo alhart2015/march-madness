@@ -1,7 +1,13 @@
 Tracking todos in the march madness repo because I'm not gonna make a JIRA for my own project...
 
 Port old stuff
+    Convert Game.py to whatever new thing I did in italy
 Convert to python3 with type hints
 Figure out how to represent a bracket
 Evaluate predictions
 Convert predictions to bracket
+README
+Pull input from the web instead of having to copy/paste
+Other models
+    Machine learning
+    Massey weighting tuned by historical results
